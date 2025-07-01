@@ -44,8 +44,8 @@ personal-finance/
 
 Sandhiyasree V
 📧 sandhiyasreev@gmail.com
-🔗 LinkedIn
-🌐 GitHub
+🔗 [LinkedIn](https://www.linkedin.com/in/sandhiya-sree-v-3a2321298/)
+🌐 [GitHub](https://github.com/Sandhiyasreev)
 
 ---
 # 📜 License
